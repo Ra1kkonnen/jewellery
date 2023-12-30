@@ -1,0 +1,6 @@
+﻿  define.c
+  pa.c
+E:\code\jewellery\Day2\Day2\pa.c(18,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\code\jewellery\Day2\Day2\pa.c(18,9): message : 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
+  Day2.vcxproj -> E:\code\jewellery\Day2\x64\Debug\Day2.exe
