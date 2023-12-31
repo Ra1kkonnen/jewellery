@@ -1,0 +1,9 @@
+﻿  for.c
+  for2.c
+  n!.c
+E:\code\jewellery\Day3\Day3\n!.c(6,11): warning C4013: “factorial”未定义；假设外部返回 int
+E:\code\jewellery\Day3\Day3\n!.c(14,3): warning C4033: “factorial”必须返回值
+E:\code\jewellery\Day3\Day3\n!.c(22,3): warning C4033: “factorial”必须返回值
+  正在生成代码...
+E:\code\jewellery\Day3\Day3\n!.c(24): warning C4716: “factorial”: 必须返回一个值
+  Day3.vcxproj -> E:\code\jewellery\Day3\x64\Debug\Day3.exe
