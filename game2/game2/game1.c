@@ -9,7 +9,7 @@ void InitBoard(char board[COLS][ROWS], int cols, int rows, char c) {
 
 void PrintBoard(char board[COLS][ROWS], int col, int row) {
 	printf("---------------------------------\n\n");
-	printf("    ");                                              //行坐标格式对齐
+	printf("    ");                                                //行坐标格式对齐
 	for (int i = 1; i < col + 1; i++) {                            //最上方一行打印列坐标0-9
 		printf("%d   ", i);
 	}

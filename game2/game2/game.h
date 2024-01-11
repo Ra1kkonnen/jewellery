@@ -5,9 +5,9 @@
 #include<stdlib.h>
 #include<time.h>
 
-#define ROW 9  //二维数组行数
-#define COL 9   //二维数组列数
-#define MINE 10 //地雷数量 
+#define ROW 3  //二维数组行数
+#define COL 3   //二维数组列数
+#define MINE 2 //地雷数量 
 
 #define ROWS ROW+2      //选择格子后是检测格子周围八个格子地雷的数量，当检测边缘的格子时，
 #define COLS COL+2      //附近会没有其他格子，因此拓宽二维数组的大小，方便后续检测格子周围地雷数量
